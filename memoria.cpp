@@ -69,7 +69,7 @@ int main(){
     sleep(5);
 //-------------------Esconde elas agora --------------
 //----------------------Fazendo ela funcionar-------------
-    while(ponto<=p){//enquanto os pontos forem menores que a quantidade de pares
+    while(ponto!=p){//enquanto os pontos forem menores que a quantidade de pares
     system("clear");
     printf("--------\n");
     for(i=0;i<n;i++){
