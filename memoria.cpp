@@ -66,7 +66,7 @@ int main(){
         printf("\n");
     }
     printf("--------\n");
-    usleep(5000000);
+    sleep(5);
 //-------------------Esconde elas agora --------------
 //----------------------Fazendo ela funcionar-------------
     while(ponto<=p){//enquanto os pontos forem menores que a quantidade de pares
@@ -120,7 +120,7 @@ int main(){
             }else{
                 printf("Jogada invalida!!\n");
             }
-        usleep(2000000);
+        sleep(3);
         }
 end=time(NULL);
 tempo=difftime(end,start);
