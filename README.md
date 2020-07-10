@@ -1,5 +1,5 @@
-# memoria
-engdesoftware
+# Jogo da memória
+Eng. de Software
 
 Algoritmos e Programação – Trabalho Implementação Jogo de Memória
 
